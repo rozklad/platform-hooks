@@ -247,14 +247,6 @@ return [
 
 		'admin' => [
 
-			/*[
-				'slug'  => 'admin-sanatorium-hooks',
-				'name'  => 'Hooks',
-				'class' => 'fa fa-circle-o',
-				'uri'   => 'hooks',
-				'regex' => '/:admin\/hooks/i',
-			],*/
-
 		],
 
 		'main' => [
