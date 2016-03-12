@@ -1,5 +1,5 @@
 {
-	"name": "sanatorium/platform-hooks",
+	"name": "sanatorium/hooks",
 	"type": "platform-extension",
 	"description": "Hook system",
 	"authors": [
